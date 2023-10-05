@@ -37,7 +37,7 @@ Bugün işinize rehberlik etmesi için aşağıdaki listesiyi kullanın. Nihai �
 - [ ] Bu html attributeleriyle(öznitelikleriyle) projenin başlığına bir görünüm meta etiketi ekleyin: content="width=device-width, initial-scale=1"
 - [ ] max-width medya sorgunuzda 800px and 500px piksellerini eşik olarak kabul edin
 - [ ] Web sayfanıza erişilebilirlik özellikleri ekleyin
-- [ ] Tasarımınız hemen hemen [mobil çerçeve](Çerçeveler/) 'de verilen bir tasarıma yakın olmalıdır.
+- [ ] Tasarımınız hemen hemen [mobil çerçeveler](https://github.com/Workintech/FSWeb-S3G4-Responsive-Design/tree/main/Responsive_WireFrames) 'de verilen bir tasarıma yakın olmalıdır.
 
 
 ### Görev 3: Ek Görevler
