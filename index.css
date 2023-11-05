@@ -1,0 +1,98 @@
+header nav a{
+
+    padding: 1em;
+    background-color: rgb(204, 198, 198);
+    text-decoration: none;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header nav {
+    display: flex;
+}
+
+main {
+width: 80vw;
+height: 50vw;
+background-image: url(https://picsum.photos/800/600);
+margin: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+main a{
+    padding: 1em;
+    text-decoration: none;
+    background-color: whitesmoke;
+    display: block;
+    margin: auto;
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
+}
+main h1 {
+    text-shadow: 2px 2px white;
+}
+
+.container-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 50px 0;
+
+}
+
+.container-gallery div {
+    width: 30%;
+    
+}
+
+.container-gallery img {
+    width: 100%;
+}
+
+.container-gallery h3 {
+    padding: 1em;
+    text-decoration: none;
+    background-color: rgb(204, 198, 198);
+    display: block;
+    margin: auto;
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: rgb(204, 198, 198);
+    padding: 50px;
+}
+
+footer a {
+    padding: 1em;
+    text-decoration: none;
+    background-color:whitesmoke;
+    display: block;
+    margin: auto;
+    width: 100px;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+@media screen and (max-width: 800px) and 
+(min-width: 500px) {
+    header {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+    }
+}
+    
+
